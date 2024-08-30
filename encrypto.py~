@@ -30,7 +30,7 @@ def decrypt_file(encrypted_data, key):
     except InvalidToken:
         raise InvalidToken("Invalid decryption key")
 
-st.title("Xueba's Document Encryption")
+st.title("Simple Document Encryption")
 
 tab1, tab2 = st.tabs(["Encrypt", "Decrypt"])
 
