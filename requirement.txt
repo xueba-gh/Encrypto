@@ -1,2 +1,0 @@
-streamlit
-cryptography==3.4.7
