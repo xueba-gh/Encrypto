@@ -35,8 +35,8 @@ To run this app locally, follow these steps:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/file-encrypto.git
-   cd file-encrypto
+   git clone https://github.com/xueba-gh/Encrypto
+   cd Encrypto
    ```
 
 2. Create a virtual environment (optional but recommended):
@@ -68,3 +68,4 @@ To run this app locally, follow these steps:
 
 ## Contributing
 Contributions to improve the app are welcome.
+@Xueba
